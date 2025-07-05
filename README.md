@@ -68,7 +68,7 @@ I'm a detail-driven and insights-focused Data Analyst with 2+ years of experienc
 
 - 📧 Email: **mruthulasaras1@gmail.com**  
 - 📞 Phone: **+91 9087682456**  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) *(Add your actual link!)*  
+- 🔗 [[LinkedIn](https://www.linkedin.com/in/your-profile](https://linkedin.com/in/mruthula-saras)
 
 ---
 
