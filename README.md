@@ -1,25 +1,78 @@
-<h1 align="center">Hi 👋, I'm Mruthula</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif")
+<p align="center">
+  <img src="https://img.freepik.com/free-vector/girl-using-laptop-with-binary-code_1308-114505.jpg?semt=ais_hybrid&w=740" alt="Banner" width="25%" />
+</p>
+<h1 align="center">👋 Hi, I'm Mruthula Saras P S</h1>
+<p align="center">
+  <b>Data Analyst | Power BI Developer | Alteryx Certified | SQL Enthusiast</b>  
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mruthulasaras&label=Profile%20views&color=0e75b6&style=flat" alt="mruthulasaras" /> </p>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif"/>
 
-- 🔭 I’m currently working on **Capestart Pvt Ltd**
+---
+
+### 🧠 About Me
+
+🎓 **Bachelor of Engineering**  
+Sri Ramakrishna Engineering College (2018 – 2022)  
+📊 **CGPA**: 8.23
+
+💼 **Current Role:** Research Analyst @ *CapeStart Software Pvt Ltd*  
+📍 **Previous Experience:** Data Analyst @ *Ernst & Young GDS*  
+
+I'm a detail-driven and insights-focused Data Analyst with 2+ years of experience in transforming raw data into powerful dashboards and reports using **Power BI**, **Alteryx**, **SQL**, and **Excel**. I thrive on solving business problems, automating workflows, and communicating insights through compelling visuals.
+
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/mruthulasaras1](https://www.datascienceportfol.io/mruthulasaras1)
 
-- 📫 How to reach me **mruthulasaras1@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mruthula saras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mruthula saras" height="30" width="40" /></a>
-</p>
+### 🚀 Tech Stack & Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+| Tool | Proficiency |
+|------|-------------|
+| **Power BI Suite** | Desktop, Service, Gateway, Report Builder, Paginated Reports |
+| **Data Modeling** | Star/Snowflake schema, Bridge Tables, Relationships, Aggregations |
+| **Power Query (M)** | Advanced Data Transformation & Cleansing |
+| **DAX** | Complex Measures, KPIs, Time Intelligence, Dynamic RLS |
+| **SQL** | Views, Joins, CTEs, Query Optimization (MySQL) |
+| **ETL** | Alteryx (Certified) – Workflow Automation, Data Prep |
+| **Excel** | Pivot Tables, VLOOKUP/XLOOKUP, INDEX-MATCH, Data Cleaning |
+| **Python** | Scripting & Analysis |
+| **Visualization** | Bookmarks, Drillthrough, Filters, Mobile Layout |
+| **Security** | Static/Dynamic Row-Level Security, Workspace Roles |
+| **Performance** | Incremental Refresh, Efficient DAX, Query Optimization |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mruthulasaras&show_icons=true&locale=en&layout=compact" alt="mruthulasaras" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mruthulasaras&show_icons=true&locale=en" alt="mruthulasaras" /></p>
+### 📜 Certifications
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mruthulasaras&" alt="mruthulasaras" /></p>
+- 🧩 **Alteryx Designer Core**
+- 🧠 **Alteryx Foundational Micro-Credential**
+- 📊 **Microsoft Power BI Desktop for Business Intelligence**
+- 🚀 **Power BI: Up & Running with Power BI Service**
+- 🤖 **Data Analysis in Power BI with ChatGPT & Microsoft Copilot**
+- 🧮 **SQL for Data Analysis: Advanced Querying Techniques**
+
+---
+
+### 📌 Projects & Highlights
+
+- 📈 Built Power BI dashboards tracking **media sentiment** in the healthcare domain.
+- 🔄 Automated data workflows using **Alteryx**, reducing manual effort by 60%.
+- 🧹 Designed complex **DAX measures** for dynamic KPIs and RLS-based access control.
+- 💬 Presented insights to stakeholders using **PowerPoint** & interactive visuals.
+
+---
+
+### 📬 Connect with Me
+
+- 📧 Email: **mruthulasaras1@gmail.com**  
+- 📞 Phone: **+91 9087682456**  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) *(Add your actual link!)*  
+
+---
+
+
+> 💡 *“Turning data into decisions – one dashboard at a time.”*
+
+---
