@@ -18,7 +18,7 @@ Sri Ramakrishna Engineering College (2018 – 2022)
 
 💼 **Current Role:** Power BI Developer @ *CapeStart Software Pvt Ltd*   
 
-I'm a detail-driven and insights-focused Data Analyst with 2+ years of experience in transforming raw data into powerful dashboards and reports using **Power BI**, **Alteryx**, **SQL**, and **Excel**. I thrive on solving business problems, automating workflows, and communicating insights through compelling visuals.
+I'm a detail-driven and insights-focused Data Analyst with 3 years of experience in transforming raw data into powerful dashboards and reports using **Power BI**, **Alteryx**, **SQL**, and **Excel**. I thrive on solving business problems, automating workflows, and communicating insights through compelling visuals.
 
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/mruthulasaras1](https://www.datascienceportfol.io/mruthulasaras1)
