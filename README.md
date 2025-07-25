@@ -16,8 +16,7 @@
 Sri Ramakrishna Engineering College (2018 – 2022)  
 📊 **CGPA**: 8.23
 
-💼 **Current Role:** Research Analyst @ *CapeStart Software Pvt Ltd*  
-📍 **Previous Experience:** Data Analyst @ *Ernst & Young GDS*  
+💼 **Current Role:** Power BI Developer @ *CapeStart Software Pvt Ltd*   
 
 I'm a detail-driven and insights-focused Data Analyst with 2+ years of experience in transforming raw data into powerful dashboards and reports using **Power BI**, **Alteryx**, **SQL**, and **Excel**. I thrive on solving business problems, automating workflows, and communicating insights through compelling visuals.
 
